@@ -1,0 +1,19 @@
+asamanya-jewelry/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── main.js
+│   ├── cart.js
+│   └── admin.js
+├── images/
+│   ├── logo.png (placeholder)
+│   ├── hero.jpg (placeholder)
+│   └── products/ (product images)
+├── admin/
+│   ├── dashboard.html
+│   ├── products.html
+│   ├── orders.html
+│   └── shipments.html
+├── database.json
+└── README.md
